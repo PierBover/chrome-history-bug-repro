@@ -1,0 +1,23 @@
+{
+  "name": "chrome-history-bug-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sirv --single --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierBover/chrome-history-bug-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierBover/chrome-history-bug-repro/issues"
+  },
+  "homepage": "https://github.com/PierBover/chrome-history-bug-repro#readme",
+  "devDependencies": {
+    "sirv-cli": "^1.0.11"
+  }
+}
